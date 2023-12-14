@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fesoroibeba
 - 👀 I’m interested in everything data, from the ETL process to its modelling, analytics and visualization
-- 🌱 I’m currently learning various analytical skills with inclination to pivot into full-stack dev
-- 💞️ I’m looking to collaborate on data related projects and volunteering 
+- 🌱 I’m currently learning various analytical skills and looking to collaborate and network on data-related projects.
 - 📫 Reach me via email at: u.esoroibeba@gmail.com
 
 <!---
